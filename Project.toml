@@ -1,0 +1,7 @@
+name = "RobustNMF"
+uuid = "c8698dc1-cf29-40e8-b6d2-b408f1d58cd2"
+authors = ["Adrian Brag <a.brag@campus.tu-berlin.de>", "Haitham Samaan <h.samaan@campus.tu-berlin.de>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
